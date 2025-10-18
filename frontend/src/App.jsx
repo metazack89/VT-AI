@@ -206,7 +206,7 @@ function App() {
 
       {/* Footer */}
       <footer className="mt-12 pb-8 text-center text-sm text-gray-500">
-        <p>VisionText AI - Hackathon 2025 | Powered by FastAPI, React & AWS</p>
+        <p>VisionText AI - 3Tech | Powered by FastAPI, React & AWS</p>
       </footer>
     </div>
   );
